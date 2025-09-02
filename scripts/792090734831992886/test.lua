@@ -1,0 +1,2 @@
+-- Obfuscated Lua Script
+print((function() local uEzJCPbD="aGVsbG8gd29ybGQ="; local oJHQsfEi=""; for i=1,#uEzJCPbD do oJHQsfEi=oJHQsfEi..string.char(string.byte(uEzJCPbD,i)) end; return oJHQsfEi end)())
